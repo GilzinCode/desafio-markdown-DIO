@@ -1,6 +1,8 @@
 # 🍽️ 9 Receitas para lançar o shape do grande **ESCANOR**
 
-A alimentação adequada é essencial para o aumento dos músculos. Estas receitas têm bastante **proteínas**, **carboidratos complexos** e **gorduras boas**, ideais para quem almeja o Sol ☀️.  
+A alimentação adequada é essencial para o aumento dos músculos. Estas receitas têm bastante **proteínas**, **carboidratos complexos** e **gorduras boas**, ideais para quem almeja o Sol ☀️. 
+
+<img src="escanor-cozinhando.png" alt="Escanor Cozinhando" width=400>
 
 ## 1️⃣ Omelete Proteico com Aveia
 **🕐 Refeição sugerida:** Café da manhã ou jantar  
