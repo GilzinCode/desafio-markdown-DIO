@@ -7,6 +7,12 @@ A alimentação adequada é essencial para o aumento dos músculos. Estas receit
 ## 1️⃣ Omelete Proteico com Aveia
 **🕐 Refeição sugerida:** Café da manhã ou jantar  
 
+### ⚡ Macros por porção:  
+- **Calorias:** ~350 kcal  
+- **Proteína:** 24g  
+- **Carboidratos:** 12g  
+- **Gorduras:** 22g  
+
 ### 📈 Benefícios:  
 - Proteína dos ovos auxilia na recuperação muscular  
 - Aveia fornece energia de liberação lenta  
@@ -27,6 +33,12 @@ A alimentação adequada é essencial para o aumento dos músculos. Estas receit
 
 ## 2️⃣ Panqueca de Banana com Whey  
 **🕐 Refeição sugerida:** Café da manhã ou pré-treino  
+
+### ⚡ Macros por porção:  
+- **Calorias:** ~300 kcal  
+- **Proteína:** 25g  
+- **Carboidratos:** 35g  
+- **Gorduras:** 6g  
 
 ### 📈 Benefícios:  
 - Whey protein acelera a recuperação muscular  
@@ -49,6 +61,12 @@ A alimentação adequada é essencial para o aumento dos músculos. Estas receit
 ## 3️⃣ Frango Grelhado com Batata Doce  
 **🕐 Refeição sugerida:** Almoço ou pós-treino  
 
+### ⚡ Macros por porção:  
+- **Calorias:** ~450 kcal  
+- **Proteína:** 45g  
+- **Carboidratos:** 40g  
+- **Gorduras:** 10g  
+
 ### 📈 Benefícios:  
 - Frango é uma excelente fonte de proteína magra  
 - Batata doce fornece energia estável e sustenta o treino  
@@ -70,6 +88,12 @@ A alimentação adequada é essencial para o aumento dos músculos. Estas receit
 ## 4️⃣ Shake Pós-Treino de Whey e Pasta de Amendoim  
 **🕐 Refeição sugerida:** Pós-treino  
 
+### ⚡ Macros por porção:  
+- **Calorias:** ~400 kcal  
+- **Proteína:** 35g  
+- **Carboidratos:** 50g  
+- **Gorduras:** 10g  
+
 ### 📈 Benefícios:  
 - Whey protein acelera a recuperação muscular  
 - Pasta de amendoim adiciona gorduras boas e energia extra  
@@ -89,6 +113,12 @@ A alimentação adequada é essencial para o aumento dos músculos. Estas receit
 
 ## 5️⃣ Arroz Integral com Atum e Brócolis  
 **🕐 Refeição sugerida:** Almoço ou jantar  
+
+### ⚡ Macros por porção:  
+- **Calorias:** ~350 kcal  
+- **Proteína:** 38g  
+- **Carboidratos:** 45g  
+- **Gorduras:** 5g  
 
 ### 📈 Benefícios:  
 - Atum é rico em proteínas e ômega-3  
@@ -111,6 +141,12 @@ A alimentação adequada é essencial para o aumento dos músculos. Estas receit
 ## 6️⃣ Tapioca Proteica com Frango  
 **🕐 Refeição sugerida:** Café da manhã ou lanche da tarde  
 
+### ⚡ Macros por porção:  
+- **Calorias:** ~320 kcal  
+- **Proteína:** 35g  
+- **Carboidratos:** 32g  
+- **Gorduras:** 4g  
+
 ### 📈 Benefícios:  
 - Tapioca é uma ótima fonte de energia rápida  
 - Frango fornece proteínas de alta qualidade  
@@ -132,6 +168,12 @@ A alimentação adequada é essencial para o aumento dos músculos. Estas receit
 ## 7️⃣ Macarrão Integral com Frango ao Pesto  
 **🕐 Refeição sugerida:** Almoço ou jantar  
 
+### ⚡ Macros por porção:  
+- **Calorias:** ~480 kcal  
+- **Proteína:** 42g  
+- **Carboidratos:** 50g  
+- **Gorduras:** 12g  
+
 ### 📈 Benefícios:  
 - Macarrão integral mantém a saciedade por mais tempo  
 - Frango é rico em proteínas essenciais para hipertrofia  
@@ -152,6 +194,12 @@ A alimentação adequada é essencial para o aumento dos músculos. Estas receit
 ## 8️⃣ Iogurte com Granola e Mel  
 **🕐 Refeição sugerida:** Lanche da manhã ou ceia  
 
+### ⚡ Macros por porção:  
+- **Calorias:** ~250 kcal  
+- **Proteína:** 12g  
+- **Carboidratos:** 35g  
+- **Gorduras:** 5g  
+
 ### 📈 Benefícios:  
 - Iogurte fortalece a flora intestinal e melhora a digestão  
 - Granola fornece fibras e energia de liberação lenta  
@@ -170,6 +218,12 @@ A alimentação adequada é essencial para o aumento dos músculos. Estas receit
 
 ## 9️⃣ Hambúrguer de Carne com Aveia  
 **🕐 Refeição sugerida:** Almoço ou jantar  
+
+### ⚡ Macros por porção:  
+- **Calorias:** ~400 kcal  
+- **Proteína:** 45g  
+- **Carboidratos:** 20g  
+- **Gorduras:** 15g  
 
 ### 📈 Benefícios:  
 - Carne vermelha é rica em ferro e creatina natural  
